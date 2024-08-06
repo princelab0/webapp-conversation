@@ -4,7 +4,7 @@ export const API_KEY = 'app-gQK2rqx46zO34eXOgQzDstKh'
 export const API_URL = 'https://api.dify.ai/v1'
 
 export const APP_INFO: AppInfo = {
-  title: 'Nabil',
+  title: 'Nabil bank',
   description: '',
   copyright: '',
   privacy_policy: '',
