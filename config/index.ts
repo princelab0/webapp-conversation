@@ -1,9 +1,10 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
-export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
-export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
+export const APP_ID = '164a762b-36d8-4e78-83c4-cf027aa2664e' 
+export const API_KEY = 'app-gQK2rqx46zO34eXOgQzDstKh'
+export const API_URL = 'https://api.dify.ai/v1'
+
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
+  title: 'Nabil',
   description: '',
   copyright: '',
   privacy_policy: '',
@@ -11,7 +12,7 @@ export const APP_INFO: AppInfo = {
 }
 
 export const isShowPrompt = false
-export const promptTemplate = 'I want you to act as a javascript console.'
+export const promptTemplate = ''
 
 export const API_PREFIX = '/api'
 
